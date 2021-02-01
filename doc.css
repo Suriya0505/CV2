@@ -1,0 +1,23 @@
+body {
+
+    background-color:azure;
+    }
+
+hr{
+    
+    border-style: dotted none none none;
+    border-width: 7px;
+    border-color:gray;
+
+    
+    width: 7%;
+}
+
+
+h1{
+    color:lightseagreen;
+}
+
+h3{
+    color:palevioletred;
+}
